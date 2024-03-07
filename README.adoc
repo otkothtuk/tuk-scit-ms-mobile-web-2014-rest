@@ -30,3 +30,6 @@ To run your application:
 * https://gitter.im/eclipse-vertx/vertx-users[Vert.x Gitter]
 
 
+mvn clean test -Dtest="GetHealthEndpointTest"
+
+
